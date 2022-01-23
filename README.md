@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Opinion Ate Test Project
+
+Test project from [Outside-In Frontend Developent](https://outsidein.dev/react/)
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://pmwals09-opinion-ate.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` and not `npm` for installing them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
